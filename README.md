@@ -69,13 +69,13 @@ If you download the final source code then you can follow the following instruct
 
 #### Setup Video
 
-```https://code.visualstudio.com/download
+```
+https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
 ```
 
-#### Final Source Code
-
-```Fork the file from repo
+```
+Fork the file from repo
 ```
 
 #### Install Vs Code Editor
@@ -91,11 +91,4 @@ If you download the final source code then you can follow the following instruct
   NPM: 8.19.2
 ```
 
-
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
 
