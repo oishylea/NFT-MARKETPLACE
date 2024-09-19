@@ -6,7 +6,8 @@ Our NFT Marketplace DApp provides a decentralized marketplace where creators can
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/nft-marketplace.jpg)
+![alt text](https:![image](https://github.com/user-attachments/assets/3b4312c2-0864-4e7e-994c-d0e9c5cecfe9)
+)
 
 ## Instruction
 
