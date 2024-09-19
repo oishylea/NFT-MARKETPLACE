@@ -40,17 +40,8 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/w3IsLQxXTvo?si=PtRxR-o4kwlAWZga)
+- [Final Code Setup video](https://www.youtube.com/watch?v=Yt2usraGqJc)
 
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
-#### Install Vs Code Editor
-
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
 
 #### NodeJs & NPM Version
 
