@@ -6,6 +6,7 @@ Our NFT Marketplace DApp provides a decentralized marketplace where creators can
 
 ## Project Overview
 (Uploading NFT1.png)
+![Screenshot 1](./Uploading NFT1.png)
 
 ## Instruction
 
