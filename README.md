@@ -86,8 +86,7 @@ If you download the final source code then you can follow the following instruct
 
 #### Final Source Code
 
-```https://www.theblockchaincoders.com/SourceCode
-  Download the Final Source Code
+```Fork the file from repo
 ```
 
 #### Install Vs Code Editor
