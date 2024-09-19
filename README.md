@@ -36,8 +36,6 @@ Our NFT Marketplace DApp provides a decentralized marketplace where creators can
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/nft-marketplace-project-source-code)
-
 #### Setup Video
 
 - [Final Code Setup video](https://www.youtube.com/watch?v=Yt2usraGqJc)
