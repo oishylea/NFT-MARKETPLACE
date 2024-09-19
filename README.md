@@ -57,15 +57,14 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Clone Starter File
 
-```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-  GET: Project Starter File Download
+```[https://github.com/daulathussain/Airdrop-Crypto-Starter-File](https://github.com/NomanALPHA007/NFT-MARKETPLACE)
+  GET: Project File Download
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
+download the final source code then you can follow the following instructions to run the Dapp successfully
 
 #### Setup Video
 
