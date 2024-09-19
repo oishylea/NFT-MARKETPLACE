@@ -5,10 +5,7 @@ Enter the realm of digital ownership and creativity with our blockchain NFT (Non
 Our NFT Marketplace DApp provides a decentralized marketplace where creators can mint, showcase, and sell their digital creations as NFTs. These NFTs represent ownership of digital assets, such as art, music, videos, virtual real estate, and more, with each token being one-of-a-kind and indivisible
 
 ## Project Overview
-
-![alt text](![Uploading NFT1.png…]()
-
-)
+(Uploading NFT1.png)
 
 ## Instruction
 
