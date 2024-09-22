@@ -112,8 +112,8 @@ export const NFTMarketplaceProvider = ({ children }) => {
           url: "https://api.pinata.cloud/pinning/pinFileToIPFS",
           data: formData,
           headers: {
-            pinata_api_key: `9215431836a5e17fb3b6`,
-            pinata_secret_api_key: `3cbd4ee7268990b592d62efafca2162f8e1b1d438c79283f6dcdbb6b764abc43`,
+            pinata_api_key: `84c751ef47b8463f7eb2`,
+            pinata_secret_api_key: `7e07dfeb420d94f60b2669b58b25a57173542ff6bdc754e381961aa82d1fe69d`,
             "Content-Type": "multipart/form-data",
           },
         });
